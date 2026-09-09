@@ -1,0 +1,20 @@
+[
+  {
+    "clinicName": "Riverside Veterinary Clinic",
+    "appointmentType": "Annual vaccination",
+    "dateTimeIso": "2026-10-14T09:30:00Z",
+    "notes": "Bring the vaccination card. Fast for 2 hours beforehand."
+  },
+  {
+    "clinicName": "Riverside Veterinary Clinic",
+    "appointmentType": "Dental check",
+    "dateTimeIso": "2026-11-02T14:00:00Z",
+    "notes": "Follow-up on the gum inflammation seen in August."
+  },
+  {
+    "clinicName": "Riverside Veterinary Clinic",
+    "appointmentType": "Weight review",
+    "dateTimeIso": "2026-12-01T11:15:00Z",
+    "notes": "Bring the current feeding schedule."
+  }
+]
