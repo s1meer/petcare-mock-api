@@ -1,0 +1,47 @@
+[
+  {
+    "clinicName": "Baneshwor Pet Care Centre",
+    "appointmentType": "Rabies vaccination",
+    "dateTimeIso": "2026-10-09T04:15:00Z",
+    "notes": "Bring the vaccination card. Booster falls due 12 months after this dose.",
+    "clinicAddress": "142 Baneshwor Height Road, New Baneshwor, Kathmandu 44600",
+    "latitude": 27.6893,
+    "longitude": 85.3436
+  },
+  {
+    "clinicName": "Lazimpat Animal Hospital",
+    "appointmentType": "Annual health check",
+    "dateTimeIso": "2026-10-21T03:45:00Z",
+    "notes": "Fast the pet for two hours. Bloods taken on the day.",
+    "clinicAddress": "27 Lazimpat Marg, Lazimpat, Kathmandu 44600",
+    "latitude": 27.7215,
+    "longitude": 85.3206
+  },
+  {
+    "clinicName": "Thamel Vet Clinic",
+    "appointmentType": "Dental scaling",
+    "dateTimeIso": "2026-11-04T05:30:00Z",
+    "notes": "Day procedure under sedation. No food after 22:00 the night before.",
+    "clinicAddress": "8 Chaksibari Marg, Thamel, Kathmandu 44600",
+    "latitude": 27.7154,
+    "longitude": 85.3123
+  },
+  {
+    "clinicName": "Lakeside Companion Animal Clinic",
+    "appointmentType": "Deworming and flea treatment",
+    "dateTimeIso": "2026-11-18T04:00:00Z",
+    "notes": "Bring the current weight; the dose is weight based.",
+    "clinicAddress": "63 Baidam Road, Lakeside, Pokhara 33700",
+    "latitude": 28.2096,
+    "longitude": 83.9586
+  },
+  {
+    "clinicName": "Jhamsikhel Pet Wellness",
+    "appointmentType": "Post-surgery review",
+    "dateTimeIso": "2026-12-02T09:00:00Z",
+    "notes": "Sutures checked and removed if the wound has closed.",
+    "clinicAddress": "19 Jhamsikhel Road, Lalitpur 44700",
+    "latitude": 27.6766,
+    "longitude": 85.3129
+  }
+]
